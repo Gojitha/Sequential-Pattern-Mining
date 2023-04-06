@@ -1,5 +1,5 @@
-# Sequential-Pattern-Mining
-Recognition of activities causing Hypoglycemia in Type-1 Diabetes patients using Sequence Pattern Mining
+# Recognition of activities causing Hypoglycemia in Type-1 Diabetes patients using Sequence Pattern Mining
+
 
 Hypoglycemia is a medical condition in which a person’s blood sugar levels drop below normal. It is a common complication of diabetes but can also occur in people without diabetes.
 
